@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luxuryweddingsinmalta.com/sitemap.xml
+
+# Optimizations
+Disallow: /api/
+Disallow: /admin/
+Disallow: /cdn-cgi/
+Disallow: /404
+Disallow: /500

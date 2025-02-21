@@ -1,0 +1,10 @@
+/* TEAM */
+Wedding Planner: Sofiane Benhariz
+Contact: contact@luxuryweddingsinmalta.com
+Location: Malta
+
+/* SITE */
+Last update: 2024/03/15
+Standards: HTML5, CSS3, ES2020
+Components: React, Tailwind CSS, Framer Motion
+Language: TypeScript
